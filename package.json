@@ -1,0 +1,25 @@
+{
+  "name": "vessels",
+  "version": "1.0.0",
+  "description": "A list of Vessels small and large",
+  "main": "vessels.json",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukskul/Vessels.git"
+  },
+  "keywords": [
+    "boats"
+  ],
+  "author": "lukSkul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukskul/Vessels/issues"
+  },
+  "homepage": "https://github.com/lukskul/Vessels#readme",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
