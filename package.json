@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/lukskul/Vessels/issues"
   },
-  "homepage": "https://lukskul.github.io/Vessels/",
+  "homepage": "https://github.com/lukskul/Vessels/",
   "dependencies": {
     "gh-pages": "^6.1.1"
   }
