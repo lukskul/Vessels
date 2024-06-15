@@ -24,7 +24,9 @@
   {
     "vessel-name": "il;fa;idjfa",
     "stats": {},
-    "engines": {},
+    "engines": {
+      "unit": "standard"
+    },
     "generators": {},
     "electricMotors": {},
     "shafts": {},
