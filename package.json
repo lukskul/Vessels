@@ -4,7 +4,8 @@
   "description": "A list of Vessels small and large",
   "main": "vessels.json",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
