@@ -20,22 +20,5 @@
     "zincs": {},
     "doors": {},
     "misc": {}
-  },
-  {
-    "vessel-name": "il;fa;idjfa",
-    "stats": {},
-    "engines": {
-      "unit": "standard"
-    },
-    "generators": {},
-    "electricMotors": {},
-    "shafts": {},
-    "props": {},
-    "thrusters": {},
-    "rudders": {},
-    "grates": {},
-    "zincs": {},
-    "doors": {},
-    "misc": {}
   }
 ]
