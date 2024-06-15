@@ -1,24 +1,39 @@
 [
-    {
-        "vessel-name": "Islander",
-        "stats": {},
-        "engines": {
-          "unit": "metric"
-        },
-        "generators": {},
-        "electricMotors": {},
-        "shafts": {},
-        "props": {
-          "Nut Size": "Nut Size",
-          "Allthread": "Allthread",
-          "Taper": "Standard",
-          "Bore": "Bore"
-        },
-        "thrusters": {},
-        "rudders": {},
-        "grates": {},
-        "zincs": {},
-        "doors": {},
-        "misc": {}
-      }
+  {
+    "vessel-name": "Islander",
+    "stats": {},
+    "engines": {
+      "unit": "metric"
+    },
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {
+      "Nut Size": "Nut Size",
+      "Allthread": "Allthread",
+      "Taper": "Standard",
+      "Bore": "Bore"
+    },
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
+  },
+  {
+    "vessel-name": "il;fa;idjfa",
+    "stats": {},
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
+  }
 ]
