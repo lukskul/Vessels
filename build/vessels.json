@@ -37,5 +37,20 @@
     },
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "Tioga",
+    "stats": {},
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
