@@ -49,7 +49,23 @@
     "thrusters": {},
     "rudders": {},
     "grates": {},
-    "zincs": {},
+    "zincs": {
+      "zinc-location-1": "hull",
+      "zinc-count-1": "20",
+      "material-1": "aluminum",
+      "zinc-location-2": "engine",
+      "zinc-count-2": "39",
+      "material-2": "aluminum",
+      "zinc-location-3": "shaft",
+      "zinc-count-3": "4",
+      "material-3": "aluminum",
+      "zinc-location-4": "propeller",
+      "zinc-count-4": "15",
+      "material-4": "aluminum",
+      "zinc-location-5": "engine",
+      "zinc-count-5": "1",
+      "material-5": "aluminum"
+    },
     "doors": {},
     "misc": {}
   }
