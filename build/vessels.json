@@ -79,5 +79,20 @@
     },
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "Test",
+    "stats": {},
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
