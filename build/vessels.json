@@ -32,9 +32,7 @@
     "thrusters": {},
     "rudders": {},
     "grates": {},
-    "zincs": {
-      "zinc-count": "60"
-    },
+    "zincs": {},
     "doors": {},
     "misc": {}
   },
