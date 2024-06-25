@@ -101,5 +101,20 @@
     },
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "Del Norte",
+    "stats": {},
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
