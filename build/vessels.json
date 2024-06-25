@@ -32,7 +32,20 @@
     "thrusters": {},
     "rudders": {},
     "grates": {},
-    "zincs": {},
+    "zincs": {
+      "zinc-location-1": "hull",
+      "zinc-count-1": "48",
+      "material-1": "aluminum",
+      "zinc-location-2": "sea-chest",
+      "zinc-count-2": "6",
+      "material-2": "aluminum",
+      "zinc-location-3": "rope-guard",
+      "zinc-count-3": "12",
+      "material-3": "aluminum",
+      "zinc-location-4": "propeller",
+      "zinc-count-4": "50",
+      "material-4": "aluminum"
+    },
     "doors": {},
     "misc": {}
   },
