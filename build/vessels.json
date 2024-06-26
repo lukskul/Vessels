@@ -92,12 +92,15 @@
     "rudders": {},
     "grates": {},
     "zincs": {
-      "zinc-location-1": "shaft",
+      "zinc-location-1": "hull",
       "zinc-count-1": "5",
-      "material-1": "aluminum",
-      "zinc-location-2": "rope-guard",
+      "material-1": "zinc",
+      "zinc-location-2": "hull",
       "zinc-count-2": "6",
-      "material-2": "zinc"
+      "material-2": "zinc",
+      "zinc-location-3": "hull",
+      "zinc-count-3": "8",
+      "material-3": "magnesium"
     },
     "doors": {},
     "misc": {}
