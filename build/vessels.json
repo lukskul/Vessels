@@ -92,9 +92,9 @@
     "rudders": {},
     "grates": {},
     "zincs": {
-      "zinc-location-1": "sea-chest",
-      "zinc-count-1": "3",
-      "material-1": "zinc",
+      "zinc-location-1": "shaft",
+      "zinc-count-1": "5",
+      "material-1": "aluminum",
       "zinc-location-2": "rope-guard",
       "zinc-count-2": "6",
       "material-2": "zinc"
