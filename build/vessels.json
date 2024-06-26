@@ -92,9 +92,9 @@
     "rudders": {},
     "grates": {},
     "zincs": {
-      "zinc-location-1": "bow thruster",
+      "zinc-location-1": "hull",
       "zinc-count-1": "7",
-      "material-1": "magnesium",
+      "material-1": "zinc",
       "zinc-location-2": "hull",
       "zinc-count-2": "6",
       "material-2": "zinc",
