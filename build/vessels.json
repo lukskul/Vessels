@@ -136,5 +136,20 @@
     "zincs": {},
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "Test 4",
+    "stats": {},
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
