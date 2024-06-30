@@ -1,7 +1,9 @@
 [
   {
     "vessel-name": "Islander",
-    "stats": {},
+    "stats": {
+      "unitSystem": "Standard"
+    },
     "engines": {
       "unit": "metric"
     },
@@ -23,7 +25,9 @@
   },
   {
     "vessel-name": "Delta Billy",
-    "stats": {},
+    "stats": {
+      "unitSystem":"Standard"
+    },
     "engines": {},
     "generators": {},
     "electricMotors": {},
@@ -51,7 +55,9 @@
   },
   {
     "vessel-name": "Tioga",
-    "stats": {},
+    "stats": {
+      "unitSystem":"Standard"
+    },
     "engines": {},
     "generators": {},
     "electricMotors": {},
@@ -81,65 +87,10 @@
     "misc": {}
   },
   {
-    "vessel-name": "Test",
-    "stats": {},
-    "engines": {},
-    "generators": {},
-    "electricMotors": {},
-    "shafts": {},
-    "props": {},
-    "thrusters": {},
-    "rudders": {},
-    "grates": {},
-    "zincs": {
-      "zinc-location-1": "shaft",
-      "zinc-count-1": "5",
-      "material-1": "zinc",
-      "zinc-location-2": "rope-guard",
-      "zinc-count-2": "29",
-      "material-2": "zinc",
-      "zinc-location-3": "hull",
-      "zinc-count-3": "8",
-      "material-3": "magnesium",
-      "location-1": "propeller",
-      "count-1": "4"
-    },
-    "doors": {},
-    "misc": {}
-  },
-  {
     "vessel-name": "Del Norte",
-    "stats": {},
-    "engines": {},
-    "generators": {},
-    "electricMotors": {},
-    "shafts": {},
-    "props": {},
-    "thrusters": {},
-    "rudders": {},
-    "grates": {},
-    "zincs": {},
-    "doors": {},
-    "misc": {}
-  },
-  {
-    "vessel-name": "Test3",
-    "stats": {},
-    "engines": {},
-    "generators": {},
-    "electricMotors": {},
-    "shafts": {},
-    "props": {},
-    "thrusters": {},
-    "rudders": {},
-    "grates": {},
-    "zincs": {},
-    "doors": {},
-    "misc": {}
-  },
-  {
-    "vessel-name": "Test 4",
-    "stats": {},
+    "stats": {
+      "unitSystem":"Standard"
+    },
     "engines": {},
     "generators": {},
     "electricMotors": {},
