@@ -26,7 +26,7 @@
   {
     "vessel-name": "Delta Billy",
     "stats": {
-      "unitSystem": "Standard"
+      "unitSystem": "standard"
     },
     "engines": {},
     "generators": {},
@@ -56,7 +56,7 @@
   {
     "vessel-name": "Tioga",
     "stats": {
-      "unitSystem": "Standard"
+      "unitSystem": "standard"
     },
     "engines": {},
     "generators": {},
@@ -89,7 +89,7 @@
   {
     "vessel-name": "Del Norte",
     "stats": {
-      "unitSystem": "Standard"
+      "unitSystem": "standard"
     },
     "engines": {},
     "generators": {},
@@ -106,7 +106,7 @@
   {
     "vessel-name": "Test",
     "stats": {
-      "unitSystem": "Standard"
+      "unitSystem": "standard"
     },
     "engines": {},
     "generators": {},
