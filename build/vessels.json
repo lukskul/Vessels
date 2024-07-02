@@ -140,5 +140,22 @@
     },
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "test 3",
+    "stats": {
+      "unitSystem": "standard"
+    },
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
