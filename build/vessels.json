@@ -113,6 +113,11 @@
         "location-2": "propeller",
         "count-2": "12",
         "material-2": "zinc"
+      },
+      "zincs-Entry-3": {
+        "location-1": "hull",
+        "count-1": "2",
+        "material-1": "zinc"
       }
     },
     "doors": {},
