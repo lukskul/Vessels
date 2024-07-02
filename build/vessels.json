@@ -133,7 +133,11 @@
     "thrusters": {},
     "rudders": {},
     "grates": {},
-    "zincs": {},
+    "zincs": {
+      "location-1": "hull",
+      "count-1": "88",
+      "material-1": "zinc"
+    },
     "doors": {},
     "misc": {}
   }
