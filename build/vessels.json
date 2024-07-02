@@ -164,6 +164,14 @@
         "location-1": "rope-guard",
         "count-1": "1",
         "material-1": "zinc"
+      },
+      "zincs-Entry-3": {
+        "location-1": "propeller",
+        "count-1": "9",
+        "material-1": "aluminum",
+        "location-2": "jets",
+        "count-2": "10",
+        "material-2": "aluminum"
       }
     },
     "doors": {},
