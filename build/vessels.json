@@ -4,18 +4,11 @@
     "stats": {
       "unitSystem": "Standard"
     },
-    "engines": {
-      "unit": "metric"
-    },
+    "engines": {},
     "generators": {},
     "electricMotors": {},
     "shafts": {},
-    "props": {
-      "Nut Size": "Nut Size",
-      "Allthread": "Allthread",
-      "Taper": "Standard",
-      "Bore": "Bore"
-    },
+    "props": {},
     "thrusters": {},
     "rudders": {},
     "grates": {},
@@ -36,20 +29,7 @@
     "thrusters": {},
     "rudders": {},
     "grates": {},
-    "zincs": {
-      "zinc-location-1": "hull",
-      "zinc-count-1": "48",
-      "material-1": "aluminum",
-      "zinc-location-2": "sea-chest",
-      "zinc-count-2": "6",
-      "material-2": "aluminum",
-      "zinc-location-3": "rope-guard",
-      "zinc-count-3": "12",
-      "material-3": "aluminum",
-      "zinc-location-4": "propeller",
-      "zinc-count-4": "50",
-      "material-4": "aluminum"
-    },
+    "zincs": {},
     "doors": {},
     "misc": {}
   },
@@ -66,23 +46,7 @@
     "thrusters": {},
     "rudders": {},
     "grates": {},
-    "zincs": {
-      "zinc-location-1": "hull",
-      "zinc-count-1": "20",
-      "material-1": "aluminum",
-      "zinc-location-2": "engine",
-      "zinc-count-2": "39",
-      "material-2": "aluminum",
-      "zinc-location-3": "shaft",
-      "zinc-count-3": "4",
-      "material-3": "aluminum",
-      "zinc-location-4": "propeller",
-      "zinc-count-4": "15",
-      "material-4": "aluminum",
-      "zinc-location-5": "engine",
-      "zinc-count-5": "1",
-      "material-5": "aluminum"
-    },
+    "zincs": {},
     "doors": {},
     "misc": {}
   },
@@ -100,80 +64,6 @@
     "rudders": {},
     "grates": {},
     "zincs": {},
-    "doors": {},
-    "misc": {}
-  },
-  {
-    "vessel-name": "Test",
-    "stats": {
-      "unitSystem": "standard"
-    },
-    "engines": {},
-    "generators": {},
-    "electricMotors": {},
-    "shafts": {},
-    "props": {},
-    "thrusters": {},
-    "rudders": {},
-    "grates": {},
-    "zincs": {},
-    "doors": {},
-    "misc": {}
-  },
-  {
-    "vessel-name": "Test 2",
-    "stats": {
-      "unitSystem": "Standard"
-    },
-    "engines": {},
-    "generators": {},
-    "electricMotors": {},
-    "shafts": {},
-    "props": {},
-    "thrusters": {},
-    "rudders": {},
-    "grates": {},
-    "zincs": {
-      "location-1": "hull",
-      "count-1": "88",
-      "material-1": "zinc"
-    },
-    "doors": {},
-    "misc": {}
-  },
-  {
-    "vessel-name": "test 3",
-    "stats": {
-      "unitSystem": "standard"
-    },
-    "engines": {},
-    "generators": {},
-    "electricMotors": {},
-    "shafts": {},
-    "props": {},
-    "thrusters": {},
-    "rudders": {},
-    "grates": {},
-    "zincs": {
-      "zincs-Entry-1": {
-        "location-1": "hull",
-        "count-1": "9",
-        "material-1": "zinc"
-      },
-      "zincs-Entry-2": {
-        "location-1": "rope-guard",
-        "count-1": "1",
-        "material-1": "zinc"
-      },
-      "zincs-Entry-3": {
-        "location-1": "propeller",
-        "count-1": "9",
-        "material-1": "aluminum",
-        "location-2": "jets",
-        "count-2": "10",
-        "material-2": "aluminum"
-      }
-    },
     "doors": {},
     "misc": {}
   }
