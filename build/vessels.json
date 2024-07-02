@@ -66,5 +66,22 @@
     "zincs": {},
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "Azteca",
+    "stats": {
+      "unitSystem": "standard"
+    },
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
