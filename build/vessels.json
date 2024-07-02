@@ -46,6 +46,23 @@
         "location-5": "rudder",
         "count-5": "6",
         "material-5": "aluminum"
+      },
+      "zincs-Entry-2": {
+        "location-1": "hull",
+        "count-1": "28",
+        "material-1": "aluminum",
+        "location-2": "propeller",
+        "count-2": "38",
+        "material-2": "aluminum",
+        "location-3": "rope-guard",
+        "count-3": "12",
+        "material-3": "aluminum",
+        "location-4": "sea-chest",
+        "count-4": "6",
+        "material-4": "aluminum",
+        "location-5": "rudder",
+        "count-5": "6",
+        "material-5": "aluminum"
       }
     },
     "doors": {},
