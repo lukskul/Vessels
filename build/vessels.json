@@ -159,6 +159,11 @@
         "location-1": "hull",
         "count-1": "9",
         "material-1": "zinc"
+      },
+      "zincs-Entry-2": {
+        "location-1": "rope-guard",
+        "count-1": "1",
+        "material-1": "zinc"
       }
     },
     "doors": {},
