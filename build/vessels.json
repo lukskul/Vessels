@@ -125,7 +125,13 @@
     "engines": {},
     "generators": {},
     "electricMotors": {},
-    "shafts": {},
+    "shafts": {
+      "shafts-Entry-1": {
+        "couplerBoltCount": "9",
+        "couplerBoltSizes": "1",
+        "couplerPullerAssembly": "strongBack"
+      }
+    },
     "props": {},
     "thrusters": {},
     "rudders": {},
