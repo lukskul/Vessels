@@ -151,6 +151,9 @@
     "shafts": {
       "shafts-Entry-1": {
         "couplerPullerAssembly": "strongBack"
+      },
+      "shafts-Entry-2": {
+        "couplerPullerAssembly": "strongBack"
       }
     },
     "props": {},
