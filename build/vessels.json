@@ -148,7 +148,11 @@
     "engines": {},
     "generators": {},
     "electricMotors": {},
-    "shafts": {},
+    "shafts": {
+      "shafts-Entry-1": {
+        "couplerPullerAssembly": "strongBack"
+      }
+    },
     "props": {},
     "thrusters": {},
     "rudders": {},
