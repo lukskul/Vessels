@@ -12,7 +12,16 @@
     "thrusters": {},
     "rudders": {},
     "grates": {},
-    "zincs": {},
+    "zincs": {
+      "zincs-Entry-1": {
+        "location-1": "jets",
+        "count-1": "5",
+        "material-1": "magnesium",
+        "location-2": "bow thruster",
+        "count-2": "6",
+        "material-2": "aluminum"
+      }
+    },
     "doors": {},
     "misc": {}
   },
