@@ -148,6 +148,16 @@
       },
       "shafts-Entry-2": {
         "couplerPullerAssembly": "strongBack"
+      },
+      "shafts-Entry-3": {
+        "couplerBoltCount": "12",
+        "couplerBoltSizes": "1 13/16",
+        "couplerPullerAssembly": "strongBack",
+        "shaftSealType": "stuffing-box",
+        "packingCount": "4",
+        "packingSize": "1/4",
+        "packingLength": "6",
+        "threadSize": "3/4\"-10"
       }
     },
     "props": {},
