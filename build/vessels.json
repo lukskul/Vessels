@@ -162,6 +162,10 @@
       "shafts-Entry-4": {
         "couplerPullerAssembly": "-",
         "shaftSealType": "-"
+      },
+      "shafts-Entry-5": {
+        "couplerPullerAssembly": "-",
+        "shaftSealType": "-"
       }
     },
     "props": {},
