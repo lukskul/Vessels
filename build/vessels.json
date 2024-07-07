@@ -158,6 +158,10 @@
         "packingSize": "1/4",
         "packingLength": "6",
         "threadSize": "3/4\"-10"
+      },
+      "shafts-Entry-4": {
+        "couplerPullerAssembly": "-",
+        "shaftSealType": "-"
       }
     },
     "props": {},
