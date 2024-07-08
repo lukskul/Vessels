@@ -194,6 +194,10 @@
         "packingSize": "1/4",
         "packingLength": "5\"",
         "threadSize": "M8"
+      },
+      "shafts-Entry-8": {
+        "couplerPullerAssembly": "-",
+        "shaftSealType": "-"
       }
     },
     "props": {},
