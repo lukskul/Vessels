@@ -180,6 +180,20 @@
         "packingSize": "1/4",
         "packingLength": "5\"",
         "threadSize": "M8"
+      },
+      "shafts-Entry-7": {
+        "couplerBoltCount": "12",
+        "couplerBoltSizes": "3/4",
+        "retainingNutSizes": "2.25",
+        "setScrewCount": "2",
+        "setScrewSize": "1/2-13",
+        "couplerPullerAssembly": "strongBack",
+        "additionalNotes": "Additional Notes are going to go here! ",
+        "shaftSealType": "stuffing-box",
+        "packingCount": "3",
+        "packingSize": "1/4",
+        "packingLength": "5\"",
+        "threadSize": "M8"
       }
     },
     "props": {},
