@@ -107,7 +107,11 @@
     },
     "engines": {},
     "generators": {},
-    "electricMotors": {},
+    "electricMotors": {
+      "electricMotors-Entry-1": {
+        "electricMotorsType": "Fan"
+      }
+    },
     "shafts": {},
     "props": {},
     "thrusters": {},
