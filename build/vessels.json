@@ -136,7 +136,11 @@
       "electricMotors-Entry-5": {},
       "electricMotors-Entry-6": {},
       "electricMotors-Entry-7": {},
-      "electricMotors-Entry-8": {}
+      "electricMotors-Entry-8": {},
+      "electricMotors-Entry-9": {
+        "electricMotorsType": "Fan",
+        "thread": "1/4in"
+      }
     },
     "shafts": {},
     "props": {},
