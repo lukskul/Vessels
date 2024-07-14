@@ -130,7 +130,8 @@
     "generators": {},
     "electricMotors": {
       "electricMotors-Entry-1": {},
-      "electricMotors-Entry-2": {}
+      "electricMotors-Entry-2": {},
+      "electricMotors-Entry-3": {}
     },
     "shafts": {},
     "props": {},
