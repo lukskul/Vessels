@@ -140,7 +140,8 @@
       "electricMotors-Entry-9": {
         "electricMotorsType": "Fan",
         "thread": "1/4in"
-      }
+      },
+      "electricMotors-Entry-10": {}
     },
     "shafts": {},
     "props": {},
