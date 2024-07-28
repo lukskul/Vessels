@@ -153,7 +153,8 @@
       "zincs-Entry-1": {
         "location-1": "hull",
         "material-1": "zinc"
-      }
+      },
+      "zincs-Entry-2": {}
     },
     "doors": {},
     "misc": {}
