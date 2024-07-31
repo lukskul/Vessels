@@ -193,5 +193,22 @@
     "zincs": {},
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "Moab",
+    "stats": {
+      "unitSystem": "standard"
+    },
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
