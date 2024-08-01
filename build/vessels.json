@@ -144,7 +144,12 @@
       "electricMotors-Entry-10": {},
       "electricMotors-Entry-11": {}
     },
-    "shafts": {},
+    "shafts": {
+      "shafts-Entry-1": {
+        "couplerPullerAssembly": "-",
+        "shaftSealType": "-"
+      }
+    },
     "props": {},
     "thrusters": {},
     "rudders": {},
