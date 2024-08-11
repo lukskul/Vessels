@@ -232,5 +232,22 @@
     "zincs": {},
     "doors": {},
     "misc": {}
+  },
+  {
+    "vessel-name": "Rsc-4",
+    "stats": {
+      "unitSystem": "standard"
+    },
+    "engines": {},
+    "generators": {},
+    "electricMotors": {},
+    "shafts": {},
+    "props": {},
+    "thrusters": {},
+    "rudders": {},
+    "grates": {},
+    "zincs": {},
+    "doors": {},
+    "misc": {}
   }
 ]
